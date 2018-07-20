@@ -437,6 +437,8 @@ html.ios,
   height: 100%;
   margin-top: 61px;
   margin-bottom: 45px;
+  padding: 10px !important;
+  background-image: url("../img/bg/crossword.png");
 }
 
 .containerliSettings {
